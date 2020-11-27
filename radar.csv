@@ -1,0 +1,12 @@
+name,ring,quadrant,isNew,description
+JBoss EAP,hold,Runtimes,no,Jakarta EE Application Server platform
+Quarkus,assess,Runtimes,yes,Cloud native Java Runtime framework
+Camel K,assess,Integration,no,Cloud native Integration Framework
+AMQ Streams,trial,Integration,no,Kafka on Openshift
+Openshift Serverless,trial,Openshift,no,Knative Serverless framework
+Openshift Storage,assess,Openshift,yes,Container Native Storage
+CodeReady Workspaces,trial,Openshift,no,Browser based IDE
+AMQ Broker,adopt,Integration,no,Classic Message Broker
+PAM,hold,Process,no,BPMN process modelling and execution
+Kojito,assess,Process,yes,Cloud native process modelling and execution
+Decision Manager,adopt,Process,no,Business Rules
