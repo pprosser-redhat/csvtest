@@ -1,7 +1,7 @@
 name,ring,quadrant,isNew,description
 JBoss EAP,hold,Runtimes,no,Jakarta EE Application Server platform
 Quarkus,assess,Runtimes,yes,Cloud native Java Runtime framework
-Camel K,assess,Integration,no,Cloud native Integration Framework
+Camel K,assess,Integration,no,Cloud native Integration Framework. Camel K is a new lightweight Integration framework designed and written for Kubernetes and Openshift
 AMQ Streams,trial,Integration,no,Kafka on Openshift
 Openshift Serverless,trial,Openshift,no,Knative Serverless framework
 Openshift Storage,assess,Openshift,yes,Container Native Storage
